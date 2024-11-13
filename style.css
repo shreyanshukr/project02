@@ -1,4 +1,6 @@
 #outer{
+    height:100%;
+    width:100%;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -9,4 +11,5 @@
     border-radius: 10px;
     background-color: red;
     color:white;
+
 }
